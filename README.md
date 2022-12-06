@@ -2,7 +2,7 @@
 
 
 ## About this project
-A current portfolio showcasing my skills and talent to employers who are looking to fill part-time and full-time position in Front End Web Development. Using this 
+A current portfolio showcasing my skills and talent to employers who are looking to fill part-time and full-time position in Front End Web Development. Using HTML, CSS selectors, working with media queries to ensure the website is accessible in different mobile and desktop format. 
 
 
 ## Screenshot
